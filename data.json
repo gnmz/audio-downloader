@@ -1,0 +1,42 @@
+[
+  {
+    "name": "AUDIO_01",
+    "path": "/audio/AUDIO_01.mp3"
+  },
+  {
+    "name": "AUDIO_02",
+    "path": "/audio/AUDIO_02.mp3"
+  },
+  {
+    "name": "AUDIO_03",
+    "path": "/audio/AUDIO_03.mp3"
+  },
+  {
+    "name": "AUDIO_04",
+    "path": "/audio/AUDIO_04.mp3"
+  },
+  {
+    "name": "AUDIO_05",
+    "path": "/audio/AUDIO_05.mp3"
+  },
+  {
+    "name": "AUDIO_06",
+    "path": "/audio/AUDIO_06.mp3"
+  },
+  {
+    "name": "AUDIO_07",
+    "path": "/audio/AUDIO_07.mp3"
+  },
+  {
+    "name": "AUDIO_08",
+    "path": "/audio/AUDIO_08.mp3"
+  },
+  {
+    "name": "AUDIO_09",
+    "path": "/audio/AUDIO_09.mp3"
+  },
+  {
+    "name": "AUDIO_10",
+    "path": "/audio/AUDIO_10.mp3"
+  }
+]
