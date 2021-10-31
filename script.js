@@ -63,6 +63,7 @@ const activeInput = (input, title, formItem) => {
 const start = () => {
   root.append(downLoadForm);
   loadData();
+  localStorage.setItem('isDownload', 'false')
 };
 
 start();
@@ -155,7 +156,3 @@ const dateFormat = () => {
   let seconds = date.getSeconds() < 10 ? `0${date.getSeconds()}`: date.getSeconds();
   return `${day}${month}${year}_${hour}${min}${seconds}`;
 };
-
-window.onload = () => {
-  localStorage.setItem('isDownload', 'false')
-}
